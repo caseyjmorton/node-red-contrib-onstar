@@ -11,5 +11,6 @@
       "onstar": "onstar.js"
     }
   },
+  "keywords": ["node-red", "OnStar", "Chevrolet", "Chevy", "GM", "GMC", "Buick", "Cadillac"],
   "author": "Casey Morton"
 }
