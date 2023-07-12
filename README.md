@@ -1,4 +1,6 @@
 # node-red-contrib-onstar
+DEPRECATION NOTICE: This package has been deprecated in favor of [node-red-contrib-onstar2](https://github.com/BigThunderSR/node-red-contrib-onstar2).  
+
 A node-red flow for controlling GM OnStar vehicles powered by [onstarjs](https://github.com/samrum/OnStarJS)
 
 [![npm](https://img.shields.io/npm/v/node-red-contrib-onstar.svg)](https://www.npmjs.com/package/node-red-contrib-onstar)
